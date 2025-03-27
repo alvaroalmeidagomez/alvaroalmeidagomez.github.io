@@ -257,7 +257,9 @@
     ],
     "uniqCompNum": 5,
     "imageResize": true,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
